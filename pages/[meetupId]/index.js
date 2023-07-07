@@ -38,7 +38,7 @@ export async function getStaticPaths(){
         
             
         
-    }
+    } 
 }
 
 export async function getStaticProps(context){
